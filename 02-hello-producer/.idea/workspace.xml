@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82780788-e282-40d8-95e0-bd30bb9761cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="45" />
+    <option name="y" value="45" />
+    <option name="width" value="1690" />
+    <option name="height" value="845" />
+  </component>
+  <component name="ProjectId" id="1ZXAZZy9Pz0kIXmLAzHWVrpCpNP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Udemy\FinalProjects\02-hello-producer\src\main\java\guru\learningjournal\kafka\examples" />
+      <recent name="C:\Udemy\FinalProjects\02-hello-producer\src\main\java" />
+      <recent name="C:\Udemy\FinalProjects\02-hello-producer\src\main\resources" />
+      <recent name="C:\Udemy\FinalProjects\02-hello-producer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HelloProducer">
+    <configuration name="HelloProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="guru.learningjournal.kafka.examples.HelloProducer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guru.learningjournal.kafka.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2-kafka-server-start" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="hello-producer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Udemy\StarterProject\02-hello-producer\scripts" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="2-kafka-server-start.cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="consumer-start" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="hello-producer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Udemy\StarterProject\02-hello-producer\scripts" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="consumer-start.cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="topic-create (1)" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="02-hello-producer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="topic-create.cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="topic-create" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="hello-producer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Udemy\StarterProject\02-hello-producer\scripts" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="topic-create.cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloProducer" />
+        <item itemvalue="Batch.topic-create (1)" />
+        <item itemvalue="Batch.consumer-start" />
+        <item itemvalue="Batch.topic-create" />
+        <item itemvalue="Batch.2-kafka-server-start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82780788-e282-40d8-95e0-bd30bb9761cc" name="Default Changelist" comment="" />
+      <created>1562846696107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562846696107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1036" y="203" key="#HelloProducer" timestamp="1585052656475">
+      <screen x="-1440" y="100" width="1440" height="877" />
+    </state>
+    <state x="-1036" y="203" key="#HelloProducer/-1440.100.1440.877/0.23.1920.1014@-1440.100.1440.877" timestamp="1585052656475" />
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom" timestamp="1585052698552">
+      <screen x="-1440" y="100" width="1440" height="877" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom/-1440.100.1440.877/0.23.1920.1014@-1440.100.1440.877" timestamp="1585052698552" />
+    <state width="1398" height="229" key="GridCell.Tab.0.center" timestamp="1585052698552">
+      <screen x="-1440" y="100" width="1440" height="877" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.center/-1440.100.1440.877/0.23.1920.1014@-1440.100.1440.877" timestamp="1585052698552" />
+    <state width="1398" height="229" key="GridCell.Tab.0.left" timestamp="1585052698551">
+      <screen x="-1440" y="100" width="1440" height="877" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.left/-1440.100.1440.877/0.23.1920.1014@-1440.100.1440.877" timestamp="1585052698551" />
+    <state width="1398" height="229" key="GridCell.Tab.0.right" timestamp="1585052698552">
+      <screen x="-1440" y="100" width="1440" height="877" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.right/-1440.100.1440.877/0.23.1920.1014@-1440.100.1440.877" timestamp="1585052698552" />
+    <state x="-1232" y="120" key="SettingsEditor" timestamp="1584976443147">
+      <screen x="-1440" y="100" width="1440" height="877" />
+    </state>
+    <state x="-1232" y="120" key="SettingsEditor/-1440.100.1440.877/0.23.1920.1014@-1440.100.1440.877" timestamp="1584976443147" />
+    <state x="-1054" y="295" width="816" height="550" key="find.popup" timestamp="1584977599698">
+      <screen x="-1440" y="100" width="1440" height="877" />
+    </state>
+    <state x="-1054" y="295" width="816" height="550" key="find.popup/-1440.100.1440.877/0.23.1920.1014@-1440.100.1440.877" timestamp="1584977599698" />
+  </component>
+</project>

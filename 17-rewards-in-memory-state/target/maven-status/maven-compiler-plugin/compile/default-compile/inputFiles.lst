@@ -1,0 +1,11 @@
+/Volumes/DATA/code/udemy/kafka-streaming/17-rewards-in-memory-state/src/main/java/guru/learningjournal/kafka/examples/serde/JsonSerializer.java
+/Volumes/DATA/code/udemy/kafka-streaming/17-rewards-in-memory-state/src/main/java/guru/learningjournal/kafka/examples/types/LineItem.java
+/Volumes/DATA/code/udemy/kafka-streaming/17-rewards-in-memory-state/src/main/java/guru/learningjournal/kafka/examples/RewardsPartitioner.java
+/Volumes/DATA/code/udemy/kafka-streaming/17-rewards-in-memory-state/src/main/java/guru/learningjournal/kafka/examples/AppConfigs.java
+/Volumes/DATA/code/udemy/kafka-streaming/17-rewards-in-memory-state/src/main/java/guru/learningjournal/kafka/examples/RewardsTransformer.java
+/Volumes/DATA/code/udemy/kafka-streaming/17-rewards-in-memory-state/src/main/java/guru/learningjournal/kafka/examples/serde/JsonDeserializer.java
+/Volumes/DATA/code/udemy/kafka-streaming/17-rewards-in-memory-state/src/main/java/guru/learningjournal/kafka/examples/types/DeliveryAddress.java
+/Volumes/DATA/code/udemy/kafka-streaming/17-rewards-in-memory-state/src/main/java/guru/learningjournal/kafka/examples/types/Notification.java
+/Volumes/DATA/code/udemy/kafka-streaming/17-rewards-in-memory-state/src/main/java/guru/learningjournal/kafka/examples/types/PosInvoice.java
+/Volumes/DATA/code/udemy/kafka-streaming/17-rewards-in-memory-state/src/main/java/guru/learningjournal/kafka/examples/RewardsApp.java
+/Volumes/DATA/code/udemy/kafka-streaming/17-rewards-in-memory-state/src/main/java/guru/learningjournal/kafka/examples/serde/AppSerdes.java
